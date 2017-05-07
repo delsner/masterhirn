@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/delsner/workspace/masterhirn/color.cpp
+color.h
+/Users/delsner/workspace/masterhirn/color.h
+
+/Users/delsner/workspace/masterhirn/color.h
+
+/Users/delsner/workspace/masterhirn/game.cpp
+game.h
+/Users/delsner/workspace/masterhirn/game.h
+iostream
+-
+
+/Users/delsner/workspace/masterhirn/game.h
+vector
+-
+player.h
+/Users/delsner/workspace/masterhirn/player.h
+color.h
+/Users/delsner/workspace/masterhirn/color.h
+
+/Users/delsner/workspace/masterhirn/player.cpp
+player.h
+/Users/delsner/workspace/masterhirn/player.h
+iostream
+-
+
+/Users/delsner/workspace/masterhirn/player.h
+iostream
+-
+
+/Users/delsner/workspace/masterhirn/run.cpp
+game.h
+/Users/delsner/workspace/masterhirn/game.h
+
